@@ -1,12 +1,9 @@
 package com.qa.main;
 
-public class mathOperations {
-	
-	public static int addMethod(int a, int b) {
-				
-		return a +b ;
-		
+public class MathOperations {
+
+	public static int addMeth( int a , int b) {
+		return a + b;
 	}
-	
 	
 }
