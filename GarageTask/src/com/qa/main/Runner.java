@@ -62,7 +62,7 @@ public class Runner {
 		//Print Puma no of seats
 		System.out.println("Puma has " + Puma.getNoOfSeats() + " seats");
 		
-		//Use method fixVehicle() ahd print new number of seats
+		//Use method fixVehicle() and print new number of seats
 		System.out.println("New number of seats is: " + Puma.fixVehicle());
 		
 		
