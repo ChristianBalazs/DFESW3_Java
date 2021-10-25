@@ -13,9 +13,7 @@ public class Runner {
 		
 		System.out.println(MathOperations.addMeth(3, 50)); 
 		
-		
-		
-		
+			
 		
 	}
 
