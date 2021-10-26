@@ -2,12 +2,10 @@ package com.qa.test;
 
 import static org.junit.Assert.assertEquals;
 
-import org.junit.Before;
+
 import org.junit.Test;
 
 import com.qa.main.Cars;
-import com.qa.main.Vehicles;
-
 
 
 public class CarsTest {
