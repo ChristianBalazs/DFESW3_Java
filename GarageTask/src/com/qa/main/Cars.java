@@ -7,8 +7,15 @@ public class Cars extends Vehicles {
 	private int HP;
 	private String CarName;
 	
-	
 
+	//Method
+	public int HpUpgrade() {
+		return HP + 100;
+		
+	}
+
+	
+	
 
 	//Constructor: 	
 	public Cars(String colour, int noOfSeats, boolean isAirbourne, boolean isEV, int hP, String carName) {
@@ -41,10 +48,10 @@ public class Cars extends Vehicles {
 	}
 
 
-	@Override
-	public String toString() {
-		return "Car-> " + CarName + " isEV=" + isEV + ", HP=" + HP + "," + super.toString() + "] ";
-	}
+//	@Override
+//	public String toString() {
+//		return "Car-> " + CarName + " isEV=" + isEV + ", HP=" + HP + "," + super.toString() + "] ";
+//	}
 	
 	
 	

@@ -60,10 +60,10 @@ public class Vehicles {
 	}
 
 
-	@Override
-	public String toString() {
-		return " colour=" + colour + ", noOfSeats=" + noOfSeats + ", isAirbourne=" + isAirbourne ;
-	}
+//	@Override
+//	public String toString() {
+//		return " colour=" + colour + ", noOfSeats=" + noOfSeats + ", isAirbourne=" + isAirbourne ;
+//	}
 	
 	
 	
