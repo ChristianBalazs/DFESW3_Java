@@ -9,10 +9,7 @@ import com.qa.main.Cars;
 
 
 public class CarsTest {
-	
-	
-	
-	
+		
 	
 	
 	
